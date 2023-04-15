@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mersed Grbic</h1>
+<h1 align="center">Hi 👋, I'm Mersed</h1>
 <h3 align="center">A passionate frontend developer from Bosnia and Herzegovina</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
