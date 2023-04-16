@@ -8,7 +8,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://mersedgrbic.github.io/](https://mersedgrbic.github.io/)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript/React**
 
 - 📫 How to reach me **grbicmersed@gmail.com**
 
