@@ -6,7 +6,7 @@
 
 - I'm learning **frontend development with just a pinch of backend knowledge thrown in. It's like trying to make a salad with only one leaf of lettuce - sure, it's something, but you're not quite sure if it's a meal yet!" 🥗😂**
 
-- 👨‍💻 Some of my projects are available at [https://mersedgrbic.github.io/](https://mersedgrbic.github.io/)
+- 👨‍💻 Some of my projects are available at [https://mersedgrbic.github.io](https://mersedgrbic.github.io/)
 
 - 💬 Ask me about **JavaScript/React**
 
